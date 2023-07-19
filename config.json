@@ -1,0 +1,4 @@
+{
+    "read_flash_hex": "0x400000",
+    "com_port": "COM3"
+}
